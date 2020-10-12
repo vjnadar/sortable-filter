@@ -1,0 +1,13 @@
+.list{
+    display: flex;
+    flex-direction: row;
+}
+.buttons{
+    display: flex;
+    width: 150px;
+    flex-direction: column-reverse;
+    flex-wrap: wrap-reverse;
+}
+ul {
+    list-style-type: none;
+}
