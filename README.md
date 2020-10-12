@@ -1,4 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+
+This is a simple filter control. The 'Cancel' button clears all the filter options. The 'Apply Filter' button console.logs the selected filter options in the specified order. You can change the order of the filter options by using the drag and drop feature.
+
+**Key features**
+- React Hooks
+- Material UI
+- React Bootstrap
+- React Sortable HOC
+- Flex box
+
+**How to run the project**
+- git clone/Download the project
+- Go to the project folder with your terminal and use npm install to install the node_modules folder.
+- Type npm start from your terminal to run the app on your default browser.
 
 ## Available Scripts
 
