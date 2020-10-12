@@ -6,7 +6,7 @@ This is a simple filter control. The 'Cancel' button clears all the filter optio
 - React Hooks
 - Material UI
 - React Bootstrap
-- React Sortable HOC
+- React Sortable HOC(older version)
 - Flex box
 
 **How to run the project**
